@@ -1,3 +1,4 @@
 Nama saya Sasdindah Manurung
 NIM 181402108
 Ini adalah UTS Praktikum Pemrograman Integratif yang sudah dimodifikasi
+Sekarang ini tahap pull
