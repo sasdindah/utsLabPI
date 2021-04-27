@@ -1,4 +1,3 @@
 Nama saya Sasdindah Manurung
 NIM 181402108
-Kom C
-Ini adalah UTS Praktikum Pemrograman Integratif
+Ini adalah UTS Praktikum Pemrograman Integratif yang sudah dimodifikasi
